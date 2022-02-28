@@ -1,0 +1,6 @@
+include ':app'
+rootProject.name = "Practice"
+include ':CardScroller'
+include ':jetpackkt'
+include ':common'
+include ':home'
